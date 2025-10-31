@@ -208,3 +208,7 @@ __marimo__/
 
 
 ans.py
+*.sqlite
+.vscode/
+*.db
+
